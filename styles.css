@@ -1,0 +1,17 @@
+body {
+  background-color: black;
+  border: none;
+  margin: 0;
+  width: 100%;
+  height: 100%;
+}
+#canvasGame {
+  width: 800px;
+  height: 500px;
+  border: solid 1px red;
+  background-color: rgb(148, 137, 137);
+}
+
+img {
+  display: none;
+}
